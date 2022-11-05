@@ -2,7 +2,7 @@
 
 - I've applied to some jobs in IT around 2017, but at the time it was harder to get a job without a degree, so I stopped applying.
 - Nowadays it became way easier, so I restarted the studies on my own and I'm currently building my portfolio to showcase my skills.
-- 
+
 - 👀 I’m interested in learning the Full-stack Development skillset. With a strong interest to learn Cyber Security and AI
 - 🌱 I’m currently learning HTML5 with CSS and Javascript, building my website with info and my projects displayed.
 - 💞️ I’m looking to collaborate on any projects that will improve my knowledge and help me land my first job in IT.
