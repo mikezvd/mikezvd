@@ -3,10 +3,10 @@
 - I've applied to some jobs in IT around 2017, but at the time it was harder to get a job without a degree, so I stopped applying.
 - Nowadays it became way easier, so I restarted the studies on my own and I'm currently building my portfolio to showcase my skills.
 
-- 👀 I’m interested in learning the Full-stack Development skillset. With a strong interest to learn Cyber Security and AI
-- 🌱 I’m currently learning HTML5 with CSS and Javascript, building my website with info and my projects displayed.
+- 👀 I’m interested in learning Cyber Security and Artificil Intelligence
+- 🌱 Currently on a Bootcamp in Date Science (AI) finishing in March 2024
 - 💞️ I’m looking to collaborate on any projects that will improve my knowledge and help me land my first job in IT.
-- 📫 How to reach me ...
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/miguelazvd/
 
 <!---
 mikezvd/mikezvd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
