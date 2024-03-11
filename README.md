@@ -3,7 +3,7 @@
   
 - 👀 I've studied Computer Science but am a uni drop-out.
 - 🌱 Currently on a bootcamp in Data Science (Artificial Intellingence) finishing in March 2024.
-- 💞️ I’m looking to collaborate on any projects that will improve my knowledge and help me land my first job in IT.
+- 💞️ I’m looking to collaborate on any projects that will improve my knowledge and help me land my first job in Machine Learning (Artificial Intelligence).
 - 📫 Reach out to me on LinkedIn.
 
 <!---
