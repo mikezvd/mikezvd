@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miguel , Aspiring Data Scientist (AI)
+- 👋 Hi, Miguel here , Aspiring Machine Learning Engineer (AI)
 
   
 - 👀 I've studied Computer Science but am a uni drop-out.
