@@ -2,9 +2,9 @@
 
 This repository accompanies the paper:
 
-**Observer Zero: A Physical Framework for the Emergence of Time, Mind, and Matter**  
+**Observer Zero: A Recursive Framework for the Emergence of Time, Mind, and Matter**  
 Submitted to *Entropic*, 2025.  
-Author: Miguel Azevedo Leite
+Author: Miguel Azevedo
 
 ---
 
