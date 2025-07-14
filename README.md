@@ -1,12 +1,26 @@
-- 👋 Hi, Miguel here , Junior Machine Learning Engineer (AI)
+# 🧠 Observer Zero: A Recursive Framework for the Emergence of Time, Mind, and Matter
 
-  
-- 👀 I've studied Computer Science but am a uni drop-out.
-- 🌱 Finished my bootcamp in Data Science (Artificial Intellingence).
-- 💞️ I’m looking to collaborate on any projects that will improve my knowledge and help me land my first job in Machine Learning (Artificial Intelligence).
-- 📫 Reach out to me on LinkedIn for more info.
+This repository accompanies the paper:
 
-<!---
-mikezvd/mikezvd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Observer Zero: A Physical Framework for the Emergence of Time, Mind, and Matter**  
+Submitted to *Entropic*, 2025.  
+Author: Miguel Azevedo Leite
+
+---
+
+## 📂 Contents
+
+This repository includes a public notebook reproducing the simulation described in **Appendix B** of the manuscript:
+
+- `agent_convergence_simulation.ipynb`:  
+  Demonstrates the recursive alignment of memory between two agents exposed to identical entropy flows. This supports the theoretical prediction of exponential fixed-point convergence in recursive observer systems.
+
+---
+
+## 🧪 Running the Notebook
+
+To run the simulation locally:
+
+```bash
+pip install numpy scipy matplotlib
+jupyter notebook observer_convergence_simulation.ipynb
