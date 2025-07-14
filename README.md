@@ -1,26 +1,17 @@
-# 🧠 Observer Zero: A Recursive Framework for the Emergence of Time, Mind, and Matter
+# Hey, I'm Miguel 👋🏼
 
-This repository accompanies the paper:
+Most of my work lives at the intersection of:
 
-**Observer Zero: A Recursive Framework for the Emergence of Time, Mind, and Matter**  
-Submitted to *Entropic*, 2025.  
-Author: Miguel Azevedo
+- 🧠 Consciousness research  
+- 🔁 Recursive systems & entropy  
+- 🤖 Emotion-aware AI architecture  
+- 🧬 Pattern recognition across disciplines  
 
----
+I'm currently publishing the **Observer Zero** framework — a new physical model proposing that time, mind, and matter emerge from recursive observation. It combines physics, cognition, and systems thinking into a unified structure for building self-aware systems.
 
-## 📂 Contents
+I’m not following a traditional academic path. I’m building what I believe should exist.
 
-This repository includes a public notebook reproducing the simulation described in **Appendix B** of the manuscript:
+If you're curious about where intelligence, ethics, and recursion meet — feel free to reach out or explore the repositories below.
 
-- `agent_convergence_simulation.ipynb`:  
-  Demonstrates the recursive alignment of memory between two agents exposed to identical entropy flows. This supports the theoretical prediction of exponential fixed-point convergence in recursive observer systems.
-
----
-
-## 🧪 Running the Notebook
-
-To run the simulation locally:
-
-```bash
-pip install numpy scipy matplotlib
-jupyter notebook observer_convergence_simulation.ipynb
+> “Not everything that thinks looks like a brain. Some of it looks like a mirror.”  
+> — Me
